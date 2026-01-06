@@ -141,8 +141,8 @@ GET    /api/certificates/pdf/:id    → Download certificate PDF
 ---
 
 ## 👨‍💻 Author
-- Name: Your Name
-- Organization: Your Internship Company
+- Name: DIVYANSHU RAI
+- Organization: AMDOX TECHNOLOGIES PRIVATE LIMITED
 - Year: 2025
 
 ---
